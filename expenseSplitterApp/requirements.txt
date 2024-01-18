@@ -1,0 +1,5 @@
+Django==5.0.1
+djongo==1.3.6  # or the version you are using for MongoDB integration
+djangorestframework==3.12.4
+drf-yasg==1.20.0
+gunicorn==20.1.0
